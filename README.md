@@ -1,5 +1,3 @@
-## Jesse Manninen
-
 I like to solve problems.
 
 Currently focusing on Next.js and Drupal
