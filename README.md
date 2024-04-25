@@ -4,7 +4,7 @@ I like to solve problems.
 
 ### Statistics
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jekku123&count_private=true&langs_count=6&hide=jupyter%20notebook&theme=transparent)]() 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jekku123&count_private=true&langs_count=6&hide=jupyter%20notebook&theme=transparent&exclude_repo=drupal-movies-module)]() 
 
 
 ### Skills
