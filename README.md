@@ -1,6 +1,6 @@
 Hi there 👋
 
-I like to solve problems.
+I deliver solutions for your needs.
 
 ### Statistics
 
